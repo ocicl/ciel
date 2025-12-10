@@ -4,6 +4,6 @@ CIEL Is an Extended Lisp. Scripting with batteries included.
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/ciel-lang/CIEL.git |
-| commit  | 9957957                                   |
+| commit  | 91c5f01                                   |
 | systems | ciel                                      |
 |---------+-------------------------------------------|
